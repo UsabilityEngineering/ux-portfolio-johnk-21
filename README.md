@@ -4,7 +4,7 @@
 
 ## UX Team Project
 
+[Journal Entry 1](j01/)
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
