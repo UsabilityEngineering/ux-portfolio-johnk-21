@@ -1,5 +1,9 @@
 # Air Purifier User Experience
-# By John Koistinen 02/25/2022
+#### By John Koistinen 02/25/2022
+
+<img src="../assets/20220225_170547.jpg"/>
+<img src="../assets/20220225_170602.jpg"/>
+<img src="../assets/20220225_170618.jpg"/>
 
 
 This is a Homedics TotalClean® 5-in-1 UV-C Large Room Air Purifier. I use this both as an air purifier and as a fan. It’s intended use is to rid the air of pollutants, allergens, mold, and a number of other advertised annoyances. For me it works well during allergy season, which in Chico, can be quite rough. I also find it useful for ridding the house of unwanted smells from cooking or cleaning. 
