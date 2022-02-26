@@ -3,9 +3,9 @@
 
 
 <p float="left">
-  <img src="../assets/clock_right.jpg" width="330" />
-  <img src="../assets/clock_front.jpg" width="330" /> 
-  <img src="../assets/clock_left.jpg" width="330" />
+  <img src="../assets/20220225_170547.jpg" width="330" />
+  <img src="../assets/20220225_170602.jpg" width="330" /> 
+  <img src="../assets/20220225_170618.jpg" width="330" />
 </p>
 
 
